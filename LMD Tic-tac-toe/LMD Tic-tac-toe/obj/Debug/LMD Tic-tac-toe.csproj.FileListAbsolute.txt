@@ -1,0 +1,9 @@
+c:\users\stas\documents\visual studio 2012\Projects\LMD Tic-tac-toe\LMD Tic-tac-toe\bin\Debug\LMD Tic-tac-toe.exe.config
+c:\users\stas\documents\visual studio 2012\Projects\LMD Tic-tac-toe\LMD Tic-tac-toe\bin\Debug\LMD Tic-tac-toe.exe
+c:\users\stas\documents\visual studio 2012\Projects\LMD Tic-tac-toe\LMD Tic-tac-toe\bin\Debug\LMD Tic-tac-toe.pdb
+c:\users\stas\documents\visual studio 2012\Projects\LMD Tic-tac-toe\LMD Tic-tac-toe\obj\Debug\LMD Tic-tac-toe.csprojResolveAssemblyReference.cache
+c:\users\stas\documents\visual studio 2012\Projects\LMD Tic-tac-toe\LMD Tic-tac-toe\obj\Debug\LMD_Tic_tac_toe.Form1.resources
+c:\users\stas\documents\visual studio 2012\Projects\LMD Tic-tac-toe\LMD Tic-tac-toe\obj\Debug\LMD_Tic_tac_toe.Properties.Resources.resources
+c:\users\stas\documents\visual studio 2012\Projects\LMD Tic-tac-toe\LMD Tic-tac-toe\obj\Debug\LMD Tic-tac-toe.csproj.GenerateResource.Cache
+c:\users\stas\documents\visual studio 2012\Projects\LMD Tic-tac-toe\LMD Tic-tac-toe\obj\Debug\LMD Tic-tac-toe.exe
+c:\users\stas\documents\visual studio 2012\Projects\LMD Tic-tac-toe\LMD Tic-tac-toe\obj\Debug\LMD Tic-tac-toe.pdb
